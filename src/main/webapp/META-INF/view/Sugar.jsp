@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Mom's Controller</title>
 </head>
 <body>
 <h1>Take the Sugar</h1>

@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Process Order</title>
 </head>
 <body>
 <h1>Your order is Received...</h1>
